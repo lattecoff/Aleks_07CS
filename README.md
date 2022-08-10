@@ -1,5 +1,5 @@
 # Aleks_07CS
-Belhard C# course | Team 07
+## Belhard C# course | Team 07
 
 Lddmmyyyy - _папка с практическими заданиями._
 
