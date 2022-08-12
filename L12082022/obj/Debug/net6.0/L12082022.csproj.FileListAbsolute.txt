@@ -1,0 +1,15 @@
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.csproj.AssemblyReference.cache
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.AssemblyInfoInputs.cache
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.AssemblyInfo.cs
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.csproj.CoreCompileInputs.cache
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\bin\Debug\net6.0\L12082022.exe
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\bin\Debug\net6.0\L12082022.deps.json
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\bin\Debug\net6.0\L12082022.runtimeconfig.json
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\bin\Debug\net6.0\L12082022.dll
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\bin\Debug\net6.0\L12082022.pdb
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.dll
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\refint\L12082022.dll
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.pdb
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\L12082022.genruntimeconfig.cache
+C:\Users\wstark\Documents\Belhard\Aleks_07CS\L12082022\obj\Debug\net6.0\ref\L12082022.dll
